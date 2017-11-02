@@ -1,0 +1,6 @@
+DerivedData/
+Pods/
+Meteo.xcworkspace/
+Podfile.lock
+**/.DS_Store
+xcuserdata/
